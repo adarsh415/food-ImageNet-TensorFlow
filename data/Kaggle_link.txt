@@ -1,0 +1,2 @@
+image data can be obtained from https://www.kaggle.com/kmader/simple-cnn/data 
+data is in HDF5 format 
